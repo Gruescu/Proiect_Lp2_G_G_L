@@ -544,4 +544,4 @@ if __name__ == '_main_':
     try:
         sys.exit(app.exec_())
     except SystemExit:
-        print()
+        print("Salut")
